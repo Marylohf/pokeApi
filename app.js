@@ -22,7 +22,6 @@ const pokeapp = async () => {
         console.log(error)
     }
 
-
 }
 
 const perroapp = async () => {
@@ -50,8 +49,6 @@ const perroapp = async () => {
     } catch (error) {
         console.log(error);
     }
-
-
 
 }
 
